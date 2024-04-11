@@ -1,4 +1,5 @@
 # 700741122-OpenBookQuiz-SAI-VARUN-THABETI
+Link for the Recording: https://drive.google.com/file/d/1ztnW-d0WNVgxSN16hcuAVMSOW2CuKm3X/view?usp=drive_link
 
 Programming task
 Instructions:
